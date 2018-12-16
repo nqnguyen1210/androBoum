@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroBoum</string>
+    <string name="title">The bombing application !</string>
+    <string name="copyright">\@Ngoc-Quyen NGUYEN - 2018</string>
+    <string name="buttonStart">Start</string>
+    <string name="facebook_application_id" translatable="false">1809914232370472</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1809914232370472</string>
+    <string name="action_logout">Log Out</string>
+    <string name="action_settings">Setting</string>
+    <string name="email">Email</string>
+    <string name="imageUploaded">Image uploaded succesful</string>
+    <string name="list_user_button">Users list</string>
+    <string name="filter_dialog_title">Filter</string>
+    <string name="action_list_user_settings">Setting</string>
+</resources>
